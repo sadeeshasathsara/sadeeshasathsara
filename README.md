@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://github.com/sadeeshasathsara/sadeeshasathsara)
 <h1 align="center">Hi 👋, I'm Sadeesha Sathsara</h1>
-<h3 align="center">An Undergraduate Student at SLIIT</h3>
+<h3 align="center">An Undergraduate IT Student at SLIIT</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 - 🌱 I’m currently learning **Java**
