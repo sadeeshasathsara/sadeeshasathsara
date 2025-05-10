@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/sadeeshasathsara?tab=repositories)
 
-- 📫 How to reach me **sadeeshasathsara99@gmail.com**
+- 📫 How to reach me **sathsarakumbukage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
