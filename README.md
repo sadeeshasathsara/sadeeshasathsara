@@ -23,7 +23,6 @@
 
 I'm a final-year Software Engineering undergraduate at **SLIIT** with hands-on internship experience building backend services and distributed systems. I enjoy taking services from development through testing to deployment, working in Agile/Scrum teams.
 
-- 🏢 Software Engineering Intern at **RnR Solutions** (Oct 2025 – Mar 2026)
 - ⚙️ Focused on **Node.js, REST APIs, microservices and cloud deployment**
 - 📨 Experienced with **RabbitMQ, Docker, Kubernetes, CI/CD**, and Azure and GCP virtual machines
 - 🧠 Exploring **system architecture & design, agentic AI & LLM applications, and distributed systems**
