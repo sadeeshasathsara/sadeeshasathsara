@@ -86,9 +86,10 @@ I'm a final-year Software Engineering undergraduate at **SLIIT** with hands-on i
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub stats" />
 <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+<img width="100%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="GitHub stats" />
 
 </div>
 
